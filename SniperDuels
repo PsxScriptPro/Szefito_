@@ -102,7 +102,7 @@ KeyPage:CreateButton({
             Rayfield:Destroy()
 
 
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/coldena/voidhuba/refs/heads/main/voidhubload",true))()
+            loadstring(game:HttpGet("https://rawscripts.net/raw/Defuse-Division-ALPHA-ExpectionalDev-Aim-Esp-Visuals-Skins-Undetected-69600"))()
 
         else
             Rayfield:Notify({
@@ -132,8 +132,7 @@ task.delay(1, function()
                 task.wait(1)
                 Rayfield:Destroy()
 
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/coldena/voidhuba/refs/heads/main/voidhubload",true))()
-
+                loadstring(game:HttpGet("https://rawscripts.net/raw/Defuse-Division-ALPHA-ExpectionalDev-Aim-Esp-Visuals-Skins-Undetected-69600"))()
                 return
             else
                 clearSave()
